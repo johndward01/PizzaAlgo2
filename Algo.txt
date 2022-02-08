@@ -1,4 +1,6 @@
 1. Visit Pizza website
 2. Choose what you would like to order
+    - 2a. Add a drink
+    - 2b. Add a desert
 3. Make order
 4. Pay delivery driver
