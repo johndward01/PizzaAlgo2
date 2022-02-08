@@ -1,0 +1,4 @@
+1. Visit Pizza website
+2. Choose what you would like to order
+3. Make order
+4. Pay delivery driver
